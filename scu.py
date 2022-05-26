@@ -9,7 +9,6 @@ from pynetdicom import AE, StoragePresentationContexts, debug_logger
 
 # ds = dcmread('dicom/covid.dcm')
 
-
 # debug_logger()
 
 scu = AE() # SCU Application Entitty
